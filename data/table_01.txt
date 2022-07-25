@@ -1,0 +1,17 @@
+Tissue_Cell Subtype Data_series Platform Technology Source Mutant_gene Cases Controls Year
+CNS fALS E-MTAB-1925 A-MEXP-2246 Microarray Motor_Cortex C9orf72 3 3 2013
+CNS fALS GSE67196 GPL11154 RNA-seq Cerebellum C9orf72 8 8 2015
+CNS fALS GSE67196 GPL11154 RNA-seq Frontal_Cortex C9orf72 8 9 2015
+CNS fALS GSE68605 GPL570 Microarray Motor_Neurons C9orf72 8 3 2015
+CNS fALS GSE20589 GPL570 Microarray Motor_Neurons SOD1 3 7 2010
+CNS sALS GSE122649 GPL18573 RNA-seq Motor_Cortex NA 26 12 2018
+CNS sALS GSE124439 GPL16791 RNA-seq Frontal_Cortex NA 65 9 2018
+CNS sALS GSE124439 GPL16791 RNA-seq Motor_Cortex NA 80 8 2018
+CNS sALS GSE19332 GPL570 Microarray Motor_Neurons NA 3 7 2009
+CNS sALS GSE76220 GPL9115 RNA-seq Spinal_Motor_Neurons NA 13 8 2015
+CNS sALS GSE67196 GPL11154 RNA-seq Cerebellum NA 10 8 2015
+CNS sALS GSE67196 GPL11154 RNA-seq Frontal_Cortex NA 10 9 2015
+diMN_transcriptomic fALS Answer_ALS Novaseq_6000 RNA-seq diMN NA 25 31 2022
+diMN_transcriptomic sALS Answer_ALS Novaseq_6000 RNA-seq diMN NA 110 31 2022
+diMN_proteomic fALS Answer_ALS SCIEX_6600 SWATH-MS diMN NA 25 31 2022
+diMN_proteomic sALS Answer_ALS SCIEX_6600 SWATH-MS diMN NA 110 31 2022
